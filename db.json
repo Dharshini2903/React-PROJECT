@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "5bf5",
+      "email": "727723EUCS051@skcet.ac.in",
+      "password": "1234"
+    },
+    {
+      "id": "40ae",
+      "email": "727723eucs051@skcet.ac.in",
+      "password": "Dharsh@2006"
+    },
+    {
+      "id": "515b",
+      "email": "dhxrshxnx@gmail.com",
+      "password": "Dharsh@2006"
+    },
+    {
+      "id": "5a0d",
+      "email": "727723eucs034@skcet.ac.in",
+      "password": "12345"
+    },
+    {
+      "id": "4736",
+      "email": "727723EUCS017@skcet.ac.in",
+      "password": "anukeerthana"
+    }
+  ]
+}
